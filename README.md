@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Amal-Matouk
 - 👀 I’m interested in Data Analysis & Data Science
-- 🌱 I’m currently learning Pytorch and 
+- 🌱 I’m currently learning Pytorch
 - 💞️ I’m looking to collaborate on deep learning researches 
 - 📫 How to reach me ... 'amalmatook@gmail.com'
 
