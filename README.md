@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Amal-Matouk
-- 👀 I’m interested in Data Analysis & Data Science
+-   AI Engineer and Senior Data Scientist focused on machine learning, NLP, LLMs, OCR, and practical AI applications.
+- 👀 I’m interested in AI & Data Science
 - 💞️ I’m looking to collaborate on deep learning researches 
 - 📫 How to reach me ... 'amalmatook@gmail.com'
 
